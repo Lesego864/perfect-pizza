@@ -1,0 +1,48 @@
+body {
+    background-color: #DC2F02;
+}
+
+
+.pizza {
+   /*box-model*/
+   border: 1px solid gainsboro;
+   padding: 1em;
+   margin: 1em;
+   margin-bottom: 0.5em;
+   border-radius: 1em;
+   /*width: 20em;
+   display:inline-block;*/
+}
+.Medium_pizza {
+    background-color: #E85D04;
+    font-family:cursive;
+}
+
+.Large_pizza {
+    background-color: #F48C06;
+    font-family:cursive;
+}
+
+.Small_pizza {
+    background-color: #FAA307;
+    font-family:cursive;
+}
+
+.Contact_us {
+    background-color: #FFBA08;
+}
+/*To avoid repeating the same stuff, create another style with a common name, in this exercise, its pizza*/
+
+@media (min-width: 760px) {
+    /*body {
+        background-color:cornflowerblue;
+    }*/
+}
+
+@media (min-width: 960px) {
+    /*body {
+        background-color: #fff;
+    }*/
+    .pizzas {
+        display:flex;
+}
