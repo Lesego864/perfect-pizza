@@ -1,5 +1,7 @@
 body {
     background-color: #DC2F02;
+    text-align: center;
+    font-size:larger;
 }
 
 
@@ -10,6 +12,7 @@ body {
    margin: 1em;
    margin-bottom: 0.5em;
    border-radius: 1em;
+   text-align: center;
    /*width: 20em;
    display:inline-block;*/
 }
@@ -30,6 +33,7 @@ body {
 
 .Contact_us {
     background-color: #FFBA08;
+    text-align: center;
 }
 /*To avoid repeating the same stuff, create another style with a common name, in this exercise, its pizza*/
 
