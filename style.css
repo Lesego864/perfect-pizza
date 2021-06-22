@@ -13,8 +13,8 @@ body {
    margin-bottom: 0.5em;
    border-radius: 1em;
    text-align: center;
-   /*width: 20em;
-   display:inline-block;*/
+   width: 20em;
+   /*display:inline-block;*/
 }
 .Medium_pizza {
     background-color: #E85D04;
@@ -34,6 +34,7 @@ body {
 .Contact_us {
     background-color: #FFBA08;
     text-align: center;
+    width:auto
 }
 /*To avoid repeating the same stuff, create another style with a common name, in this exercise, its pizza*/
 
