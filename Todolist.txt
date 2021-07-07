@@ -1,7 +1,7 @@
-too much bakground color
-create margins around the texts
-*add pictures
-move the pizza text to the center
-add space around the pizza text
-*add rounded borders around the type of pizza blocks
-look at the pizza texts
+*Too much bakground color
+*Create margins around the texts
+*Add pictures
+*Move the pizza text to the center
+*Add space around the pizza text
+*Add rounded borders around the type of pizza blocks
+*Look at the pizza texts
